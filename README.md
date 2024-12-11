@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/-Docker-white?logo=docker&Color=f5f5f5" alt="docker" />
+    <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="vite" />
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
